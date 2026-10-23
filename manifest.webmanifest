@@ -1,0 +1,19 @@
+{
+  "name": "RPG LIFE LEVELING",
+  "short_name": "RPG Leveling",
+  "description": "Ежедневные квесты, XP, уровни и 100 бустов развития.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090b10",
+  "theme_color": "#090b10",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

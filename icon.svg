@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="112" fill="#090b10"/>
+<path d="M256 64 294 184 420 184 318 258 357 380 256 306 155 380 194 258 92 184 218 184Z" fill="#57e389"/>
+<path d="M256 132 278 210 360 210 294 258 319 336 256 290 193 336 218 258 152 210 234 210Z" fill="#090b10"/>
+<text x="256" y="445" font-family="Arial,sans-serif" font-size="58" font-weight="800" text-anchor="middle" fill="#f4f6fb">RPG</text>
+</svg>
